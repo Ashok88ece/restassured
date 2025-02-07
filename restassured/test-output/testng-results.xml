@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T15:51:38 IST" name="Default suite" finished-at="2024-06-24T15:51:41 IST" duration-ms="3170">
+    <groups>
+    </groups>
+    <test started-at="2024-06-24T15:51:38 IST" name="Default test" finished-at="2024-06-24T15:51:41 IST" duration-ms="3170">
+      <class name="com.pavan.restassured.GetRequest">
+        <test-method signature="getpet()[pri:0, instance:com.pavan.restassured.GetRequest@69e1dd28]" started-at="2024-06-24T15:51:38 IST" name="getpet" finished-at="2024-06-24T15:51:41 IST" duration-ms="3110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpet -->
+      </class> <!-- com.pavan.restassured.GetRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
